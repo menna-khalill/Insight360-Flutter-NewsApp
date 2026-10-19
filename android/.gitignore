@@ -1,0 +1,17 @@
+# Gradle
+/.gradle/
+# /gradlew
+# /gradlew.bat
+# gradle-wrapper.jar
+
+# Local configuration
+/local.properties
+
+# Generated files
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Secrets
+key.properties
+**/*.keystore
+**/*.jks
