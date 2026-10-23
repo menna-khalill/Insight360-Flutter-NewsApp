@@ -15,8 +15,6 @@ Insight360 is a Flutter news application that allows users to explore the latest
 - **State Management:** Uses Cubit to manage API loading, success, and error states.
 - **Curved Bottom Navigation:** Provides navigation between the Home and Search screens.
 
-> **Note:** Login and sign-up are currently interface flows and are not connected to a real authentication backend. Article bookmarking and a saved-articles screen are not currently implemented.
-
 ---
 
 ## Project Architecture & Structure
